@@ -1,3 +1,3 @@
-Clone the project
-cd pocketbase-todo-backend
-pocketbase serve
+1. Clone the project
+2. cd pocketbase-todo-backend
+3. pocketbase serve
